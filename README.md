@@ -1,1 +1,9 @@
-# the_cold_sato_san_is_only_sweet_to_me
+# The Cold Sato-san is Only Sweet to Me (2026) Türkçe Çeviri
+
+## Çeviri Ekibi
+
+| Görev | İsim |
+|---|---|
+| **Çevirmen** | --- |
+| **Editör** | --- |
+| **Son Kontrol** | --- |
