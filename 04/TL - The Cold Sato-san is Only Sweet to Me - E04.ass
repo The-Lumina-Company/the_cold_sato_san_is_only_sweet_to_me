@@ -1,0 +1,344 @@
+[Script Info]
+Title: The-Lumina-Company - The Cold Sato-san is Only Sweet to Me
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Arial,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Üst yazı,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,30,30,35,1
+Style: Default,Lumina,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:11.58,Arial,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\3c&H000000&\4c&H000000&\pos(40,520)}{\c&HFF901E&}Çeviri: {\c&HFFFFFF&}Ata, Xenrok, KeySkop{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri{\b1}
+Dialogue: 0,0:04:37.20,0:04:38.21,Default,,0,0,0,,Sağ ol, kalsın.
+Dialogue: 0,0:04:38.21,0:04:40.44,Default,,0,0,0,,M-MINE numaralarımızı değiştirmek ister misin?
+Dialogue: 0,0:04:40.44,0:04:41.85,Default,,0,0,0,,Diyecek bir şeyin mi vardı?
+Dialogue: 0,0:04:41.85,0:04:43.98,Default,,0,0,0,,O-Okuldan sonra karaokeye \Ngitmek ister misin?
+Dialogue: 0,0:04:43.98,0:04:44.84,Default,,0,0,0,,Pas.
+Dialogue: 0,0:04:45.38,0:04:47.63,Default,,0,0,0,,Sonuç olarak, hiçbir şey değişmedi.
+Dialogue: 0,0:04:47.63,0:04:49.50,Default,,0,0,0,,Her zamanki okul.
+Dialogue: 0,0:04:49.50,0:04:51.63,Default,,0,0,0,,Her zamanki öğle teneffüsü.
+Dialogue: 0,0:04:51.63,0:04:54.94,Default,,0,0,0,,Ve her zamanki Soğuk Sato-san.
+Dialogue: 0,0:04:54.94,0:04:55.81,Default,,0,0,0,,Dalmışsın yine.
+Dialogue: 0,0:04:55.81,0:04:56.65,Default,,0,0,0,,Ah!
+Dialogue: 0,0:04:56.65,0:05:00.80,Default,,0,0,0,,Ne var be? Ayrıca \Nyemeyeceksen bana versene.
+Dialogue: 0,0:05:01.93,0:05:03.06,Default,,0,0,0,,Fazla mı mızıkçılık ediyorum?
+Dialogue: 0,0:05:03.06,0:05:04.34,Default,,0,0,0,,Evet.
+Dialogue: 0,0:05:04.34,0:05:08.90,Default,,0,0,0,,Azıcık erkeksen gururun için ondan vazgeçersin.
+Dialogue: 0,0:05:10.13,0:05:12.21,Default,,0,0,0,,N-Normal değil mi?
+Dialogue: 0,0:05:12.21,0:05:15.96,Default,,0,0,0,,Daha düne kadar aklımda sadece Sato-san vardı.
+Dialogue: 0,0:05:15.96,0:05:17.88,Default,,0,0,0,,Şimdi öyle birden “ha” deyince--
+Dialogue: 0,0:05:17.88,0:05:21.74,Default,,0,0,0,,Erkek adam olmak için kendini \Ndeğiştirebilmen gerekir.
+Dialogue: 0,0:05:22.11,0:05:22.65,Default,,0,0,0,,Aa!
+Dialogue: 0,0:05:22.65,0:05:28.25,Default,,0,0,0,,Bak, normalde başkalarının aşk \Nhayatlarını mahvetmesini umursamam.
+Dialogue: 0,0:05:28.25,0:05:32.02,Default,,0,0,0,,Hatta bence tüm erkekler \Nolabildiğince hata yapmalı.
+Dialogue: 0,0:05:32.02,0:05:34.75,Default,,0,0,0,,Çünkü başkası hata yaparsa fırsat bana geçer.
+Dialogue: 0,0:05:34.75,0:05:36.50,Default,,0,0,0,,Şeytan mısın be adam?
+Dialogue: 0,0:05:36.50,0:05:40.65,Default,,0,0,0,,Ama arkadaşımsın diye \Nşu an hayatımda ilk kez birine
+Dialogue: 0,0:05:41.32,0:05:43.28,Default,,0,0,0,,gerçek bir tavsiye veriyorum
+Dialogue: 0,0:05:43.28,0:05:45.56,Default,,0,0,0,,Artık Sato-san'ı unut.
+Dialogue: 0,0:05:51.70,0:05:53.26,Default,,0,0,0,,Ne kadar kibarsın.
+Dialogue: 0,0:05:53.26,0:05:54.77,Default,,0,0,0,,Sağ ol...
+Dialogue: 0,0:06:01.02,0:06:02.85,Default,,0,0,0,,H-Hey! Sota!
+Dialogue: 0,0:06:02.85,0:06:03.49,Default,,0,0,0,,Ha?
+Dialogue: 0,0:06:05.38,0:06:08.83,Default,,0,0,0,,Oshio-kun? Bir dakika, bakabilir misin?
+Dialogue: 0,0:06:09.13,0:06:10.55,Default,,0,0,0,,Sato-san?!
+Dialogue: 0,0:06:10.55,0:06:12.55,Default,,0,0,0,,S-Sorun ne?
+Dialogue: 0,0:06:12.55,0:06:14.30,Default,,0,0,0,,Ee... Bu!
+Dialogue: 0,0:06:15.50,0:06:17.01,Default,,0,0,0,,B-Bu?
+Dialogue: 0,0:06:17.56,0:06:20.76,Default,,0,0,0,,Minsta'da paylaşsam sorun olur mu diyecektim?
+Dialogue: 0,0:06:20.76,0:06:21.84,Default,,0,0,0,,Ha?!
+Dialogue: 0,0:06:23.95,0:06:26.64,Default,,0,0,0,,Ama istemiyorsan sorun yok...
+Dialogue: 0,0:06:26.64,0:06:28.60,Default,,0,0,0,,Tabii! Sorun olmaz!
+Dialogue: 0,0:06:28.60,0:06:30.49,Default,,0,0,0,,Yani, istiyorsan...
+Dialogue: 0,0:06:30.49,0:06:31.20,Default,,0,0,0,,Gerçekten mi?!
+Dialogue: 0,0:06:31.20,0:06:32.81,Default,,0,0,0,,İyi bari...
+Dialogue: 0,0:06:32.81,0:06:35.86,Default,,0,0,0,,Erkekler Minsta'da paylaşılmaktan \Npek hoşlanmıyormuş diye duydum da.
+Dialogue: 0,0:06:35.86,0:06:36.88,Default,,0,0,0,,Bu arada...
+Dialogue: 0,0:06:36.88,0:06:39.95,Default,,0,0,0,,Y-Yarınki buluşmamızı sabırsızlıkla bekliyorum.
+Dialogue: 0,0:06:40.70,0:06:43.15,Default,,0,0,0,,Neyse, sonra yazışırız!
+Dialogue: 0,0:06:43.91,0:06:45.98,Default,,0,0,0,,Hey, Sota, o...
+Dialogue: 0,0:06:46.59,0:06:47.57,Default,,0,0,0,,Hey!
+Dialogue: 0,0:06:47.89,0:06:51.01,Default,,0,0,0,,Sato-san'ı anlayamıyorum...
+Dialogue: 0,0:06:51.01,0:06:52.76,Default,,0,0,0,,Anlayamıyorum!
+Dialogue: 0,0:06:55.33,0:06:56.49,Default,,0,0,0,,GÖNDERİ
+Dialogue: 0,0:06:59.91,0:07:02.53,Default,,0,0,0,,Yarını bekleyemiyorum!
+Dialogue: 0,0:07:02.53,0:07:03.75,Default,,0,0,0,,Ah, doğru.
+Dialogue: 0,0:07:03.75,0:07:05.54,Default,,0,0,0,,Oshio-kun'u aramam lazım.
+Dialogue: 0,0:07:07.23,0:07:07.84,Default,,0,0,0,,Ha?
+Dialogue: 0,0:07:07.84,0:07:09.34,Default,,0,0,0,,BAĞLANTI HATASI\NHa? Ne?
+Dialogue: 0,0:07:09.34,0:07:09.92,Default,,0,0,0,,Ha?
+Dialogue: 0,0:07:10.58,0:07:11.61,Default,,0,0,0,,Koharu.
+Dialogue: 0,0:07:12.59,0:07:14.13,Default,,0,0,0,,Konuşmamız lazım.
+Dialogue: 0,0:07:20.68,0:07:21.43,Default,,0,0,0,,KOHARU SATO AZ ÖNCE BİR FOTOĞRAF PAYLAŞTI
+Dialogue: 0,0:07:24.06,0:07:24.94,Default,,0,0,0,,KOHARU SATO AZ ÖNCE BİR FOTOĞRAF PAYLAŞTI
+Dialogue: 0,0:07:24.94,0:07:25.99,Default,,0,0,0,,Boş ver.
+Dialogue: 0,0:07:25.99,0:07:26.69,Default,,0,0,0,,Ha?
+Dialogue: 0,0:07:28.41,0:07:33.47,Default,,0,0,0,,Dürüst olayım, Sato-san\N ne düşünüyor bilmiyorum ama
+Dialogue: 0,0:07:33.47,0:07:35.11,Default,,0,0,0,,seninle oynadığı çok açık.
+Dialogue: 0,0:07:35.42,0:07:39.20,Default,,0,0,0,,Öyle konuşmasana. İlk aşkım o.
+Dialogue: 0,0:07:39.20,0:07:41.63,Default,,0,0,0,,Sana şunu yapmayı bırak demiştim.
+Dialogue: 0,0:07:41.63,0:07:44.37,Default,,0,0,0,,Zaten başından beri yapamıyordun.
+Dialogue: 0,0:07:46.23,0:07:51.12,Default,,0,0,0,,Bak Sota, ilk aşklar hiç yürümez.
+Dialogue: 0,0:07:51.71,0:07:53.79,Default,,0,0,0,,Ama dünyanın sonu değil ya.
+Dialogue: 0,0:07:53.79,0:07:56.70,Default,,0,0,0,,Hem terk edenin hem de terk \Nedilenin yaşayacak bir sürü şeyi var.
+Dialogue: 0,0:07:56.70,0:07:59.62,Default,,0,0,0,,Ölecekmiş gibi davranmanın ne anlamı var?
+Dialogue: 0,0:07:59.62,0:08:01.95,Default,,0,0,0,,Böyle yaşamaktansa ölmek daha kolay.
+Dialogue: 0,0:08:03.19,0:08:08.55,Default,,0,0,0,,Bir şeyler izle, sekiz saat uyu, \Nsabah kalkınca geçer.
+Dialogue: 0,0:08:08.55,0:08:10.95,Default,,0,0,0,,Hatta sevdiğim birkaç şeyi bile yollarım sana--
+Dialogue: 0,0:08:10.95,0:08:15.35,Default,,0,0,0,,Ren-kun, Sota'ya öyle şeyler öğretme.
+Dialogue: 0,0:08:15.35,0:08:17.39,Default,,0,0,0,,Buna izin vermem!
+Dialogue: 0,0:08:17.39,0:08:21.36,Default,,0,0,0,,Sen nereden çıktın kas yığını?!\NOrtamın farkına varsana!
+Dialogue: 0,0:08:25.11,0:08:26.86,Default,,0,0,0,,KOHARU SATO - GELEN ARAMA
+Dialogue: 0,0:08:27.24,0:08:28.41,Default,,0,0,0,,Arama mı?!
+Dialogue: 0,0:08:29.05,0:08:30.71,Default,,0,0,0,,S-Sato-san?
+Dialogue: 0,0:08:30.71,0:08:35.12,Default,,0,0,0,,Kusura bakmayın ama ben sizin\Nbeklediğiniz Sato-san değilim.
+Dialogue: 0,0:08:35.12,0:08:36.29,Default,,0,0,0,,Ne?
+Dialogue: 0,0:08:37.52,0:08:40.37,Default,,0,0,0,,Ben Koharu'nun babası Kazuharu Sato.
+Dialogue: 0,0:08:40.37,0:08:41.89,Default,,0,0,0,,Babası mı!?
+Dialogue: 0,0:08:41.89,0:08:44.77,Default,,0,0,0,,Bana baba demeye hakkın yok.
+Dialogue: 0,0:08:44.77,0:08:45.63,Default,,0,0,0,,Ee.
+Dialogue: 0,0:08:45.63,0:08:47.72,Default,,0,0,0,,Lafı uzatmadan konuya gireceğim.
+Dialogue: 0,0:08:47.72,0:08:52.26,Default,,0,0,0,,Kızımın yarın sizinle olan\Nbuluşmasını iptal etmek istiyorum.
+Dialogue: 0,0:08:52.26,0:08:53.03,Default,,0,0,0,,Ne?
+Dialogue: 0,0:08:53.03,0:08:54.34,Default,,0,0,0,,Söyleyeceklerim bu kadar.
+Dialogue: 0,0:08:54.34,0:08:56.22,Default,,0,0,0,,L-Lütfen, bir dakika!
+Dialogue: 0,0:08:57.18,0:09:00.48,Default,,0,0,0,,Neden... Kazuharu-san,\Nbunu neden bana söylüyorsunuz?
+Dialogue: 0,0:09:00.48,0:09:01.98,Default,,0,0,0,,Kazuharu mu?
+Dialogue: 0,0:09:01.98,0:09:05.23,Default,,0,0,0,,Çünkü Koharu'nun telefon \Nkullanmasını yasakladım.
+Dialogue: 0,0:09:05.23,0:09:05.86,Default,,0,0,0,,Ne?
+Dialogue: 0,0:09:05.86,0:09:09.16,Default,,0,0,0,,Bir de dışarı çıkmasını yasakladım.
+Dialogue: 0,0:09:09.16,0:09:10.36,Default,,0,0,0,,Başka sorunuz var mı?
+Dialogue: 0,0:09:10.36,0:09:12.45,Default,,0,0,0,,L-Lütfen, bir dakika!
+Dialogue: 0,0:09:12.45,0:09:15.28,Default,,0,0,0,,Dışarı çıkmasını mı yasakladınız? Neden?
+Dialogue: 0,0:09:15.28,0:09:17.41,Default,,0,0,0,,Seni ilgilendirmez.
+Dialogue: 0,0:09:17.41,0:09:18.79,Default,,0,0,0,,Beni ilgilendiriyor!
+Dialogue: 0,0:09:18.79,0:09:19.83,Default,,0,0,0,,Ben Koharu-san'ın...
+Dialogue: 0,0:09:19.83,0:09:21.29,Default,,0,0,0,,...arkadaşıyım!
+Dialogue: 0,0:09:23.08,0:09:27.25,Default,,0,0,0,,Sota Oshio, seni tanıyorum.
+Dialogue: 0,0:09:27.25,0:09:27.67,Default,,0,0,0,,Koharu'yla iyi anlaşıyormuşsunuz.
+Dialogue: 0,0:09:27.67,0:09:30.38,Default,,0,0,0,,SOTA OSHIO: SATO-SAN, SENİ SEVİYORUM\NKoharu'yla iyi anlaşıyormuşsunuz.
+Dialogue: 0,0:09:30.38,0:09:32.22,Default,,0,0,0,,Bunun için teşekkür ederim.
+Dialogue: 0,0:09:32.97,0:09:35.47,Default,,0,0,0,,Ama bir yandan da şu... \NMinstagram mı ne?
+Dialogue: 0,0:09:35.47,0:09:38.93,Default,,0,0,0,,Ona böyle gereksiz şeylerle uğraşmayı \Nöğretmiş olmanız beni rahatsız ediyor.
+Dialogue: 0,0:09:38.93,0:09:40.43,Default,,0,0,0,,Gereksiz mi?
+Dialogue: 0,0:09:40.43,0:09:44.44,Default,,0,0,0,,Başına gelenler, kendini böyle boş işlere \Nfazla kaptırmasının sonucu.
+Dialogue: 0,0:09:44.44,0:09:45.69,Default,,0,0,0,,Kendi etti, kendi buldu.
+Dialogue: 0,0:09:45.69,0:09:48.94,Default,,0,0,0,,Telefonunu elinden almanıza gerek yok ki.
+Dialogue: 0,0:09:48.94,0:09:50.90,Default,,0,0,0,,Lütfen Sato-san'la konuşayım.
+Dialogue: 0,0:09:50.90,0:09:53.03,Default,,0,0,0,,Söyleyeceklerim bu kadar. Hoşça kalın.
+Dialogue: 0,0:09:53.03,0:09:53.70,Default,,0,0,0,,Bekleyin.
+Dialogue: 0,0:09:54.95,0:09:58.20,Default,,0,0,0,,Bu telefon kapanınca ilk aşkım da sona erecek.
+Dialogue: 0,0:09:58.20,0:09:59.08,Default,,0,0,0,,SOTA OSHIO: SATO-SAN, SENİ SEVİYORUM
+Dialogue: 0,0:09:59.08,0:10:04.00,Default,,0,0,0,,Ben de bu acıdan kurtulacağım.
+Dialogue: 0,0:10:04.46,0:10:06.54,Default,,0,0,0,,Ama... yine de.
+Dialogue: 0,0:10:07.04,0:10:09.51,Default,,0,0,0,,O zaman onun yerine sen gelebilirsin.
+Dialogue: 0,0:10:10.63,0:10:11.84,Default,,0,0,0,,Ne dediniz?
+Dialogue: 0,0:10:11.84,0:10:16.85,Default,,0,0,0,,Koharu-san'ın gelmesini \Nistemiyorsan, onun yerine sen gel.
+Dialogue: 0,0:10:23.02,0:10:24.35,Default,,0,0,0,,Ne zaman, nerede?
+Dialogue: 0,0:10:25.27,0:10:29.15,Default,,0,0,0,,Yarın saat altıda Cafe Tutuji'de.\NUyar mı?
+Dialogue: 0,0:10:29.15,0:10:31.15,Default,,0,0,0,,Cafe Tutuji mi?
+Dialogue: 0,0:10:31.15,0:10:32.24,Default,,0,0,0,,Adresi gönderirim.
+Dialogue: 0,0:10:32.24,0:10:34.11,Default,,0,0,0,,Gerek yok. Hoşça kal.
+Dialogue: 0,0:10:34.11,0:10:35.07,Default,,0,0,0,,Ne?
+Dialogue: 0,0:10:38.99,0:10:39.95,Default,,0,0,0,,ARAMA SONA ERDİ
+Dialogue: 0,0:10:39.95,0:10:41.00,Default,,0,0,0,,#EN_SEVDİĞİM_FOTOĞRAF
+Dialogue: 0,0:10:42.25,0:10:42.75,Default,,0,0,0,,#EN_SEVDİĞİM_FOTOĞRAF
+Dialogue: 0,0:10:42.75,0:10:44.71,Default,,0,0,0,,#EN_SEVDİĞİM_FOTOĞRAF\NBu etiket de ne?
+Dialogue: 0,0:10:45.42,0:10:49.09,Default,,0,0,0,,Sato-san, sen Minsta'yı kullanmayı\Ngerçekten hiç bilmiyorsun.
+Dialogue: 0,0:10:54.80,0:10:57.05,Default,,0,0,0,,Bir konuda bana yardım etmeni istiyorum
+Dialogue: 0,0:10:57.68,0:11:01.56,Default,,0,0,0,,Sato-san'ın babası bunu kabul etsin diye.
+Dialogue: 0,0:11:01.97,0:11:03.93,Default,,0,0,0,,CAFE TUTUJI
+Dialogue: 0,0:11:04.89,0:11:07.86,Default,,0,0,0,,Demek Sota Oshio sensin?
+Dialogue: 0,0:11:11.65,0:11:14.07,Default,,0,0,0,,İşte Earl Grey çayınız.
+Dialogue: 0,0:11:14.07,0:11:15.24,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:11:19.74,0:11:21.33,Default,,0,0,0,,Çayı siz mi demlediniz?
+Dialogue: 0,0:11:21.33,0:11:22.12,Default,,0,0,0,,Evet.
+Dialogue: 0,0:11:22.54,0:11:25.08,Default,,0,0,0,,Koharu-san'a da daha önce ben servis etmiştim.
+Dialogue: 0,0:11:25.08,0:11:26.21,Default,,0,0,0,,Anladım.
+Dialogue: 0,0:11:27.25,0:11:29.46,Default,,0,0,0,,Bugün başka misafirleriniz de varmış.
+Dialogue: 0,0:11:30.21,0:11:31.38,Default,,0,0,0,,Neyse, sorun değil.
+Dialogue: 0,0:11:31.38,0:11:35.22,Default,,0,0,0,,Önce bu görüşmenin amacını\Nöğrenmek istiyorum.
+Dialogue: 0,0:11:35.22,0:11:39.14,Default,,0,0,0,,Oshio-kun, benden ne istiyorsun?
+Dialogue: 0,0:11:39.14,0:11:42.22,Default,,0,0,0,,Lütfen Koharu-san'ın telefonunu geri verin.
+Dialogue: 0,0:11:42.22,0:11:44.64,Default,,0,0,0,,Onun için çok önemli.
+Dialogue: 0,0:11:45.10,0:11:48.27,Default,,0,0,0,,Lütfen onu durduk yere kısıtlamayın.
+Dialogue: 0,0:11:48.27,0:11:50.02,Default,,0,0,0,,Kısıtlamak mı?
+Dialogue: 0,0:11:50.90,0:11:51.73,Default,,0,0,0,,Ne?
+Dialogue: 0,0:11:51.73,0:11:55.74,Default,,0,0,0,,Buna 'kısıtlamak' diyorsan,\Nseninle aynı fikirde değilim.
+Dialogue: 0,0:11:56.45,0:11:59.53,Default,,0,0,0,,Kızım duygularını ifade etmekte zorlanıyor
+Dialogue: 0,0:11:59.53,0:12:02.49,Default,,0,0,0,,ve başkalarının duygularını anlamakta da zorlanıyor.
+Dialogue: 0,0:12:02.49,0:12:05.65,Default,,0,0,0,,Öte yandan, insanların yüz ifadelerindeki\Nen ufak değişikliği bile fark edip
+Dialogue: 0,0:12:05.65,0:12:07.75,Default,,0,0,0,,hemen kötüye yorabiliyor.
+Dialogue: 0,0:12:07.75,0:12:08.96,Default,,0,0,0,,Bunun farkında mısın?
+Dialogue: 0,0:12:08.96,0:12:10.58,Default,,0,0,0,,Şey, evet.
+Dialogue: 0,0:12:10.58,0:12:13.46,Default,,0,0,0,,Ama yine de bunun yanlış olduğunu düşünüyorum!
+Dialogue: 0,0:12:13.46,0:12:15.67,Default,,0,0,0,,Normal bir anne-baba böyle yapmaz!
+Dialogue: 0,0:12:16.22,0:12:19.22,Default,,0,0,0,,“Normal” derken neyi kastettiğini bilmiyorum
+Dialogue: 0,0:12:19.22,0:12:22.68,Default,,0,0,0,,ama Koharu'nun babası olarak\Nonun işlerine karışırım
+Dialogue: 0,0:12:22.68,0:12:26.06,Default,,0,0,0,,ve bir şey olursa tüm sorumluluğu üstlenirim.
+Dialogue: 0,0:12:26.48,0:12:28.23,Default,,0,0,0,,Peki ya sen?
+Dialogue: 0,0:12:28.77,0:12:30.65,Default,,0,0,0,,Ben mi, nasıl yani?
+Dialogue: 0,0:12:30.65,0:12:36.57,Default,,0,0,0,,Mesela Koharu Minstagram'a kendini kaptırıp derslerini boşlasa
+Dialogue: 0,0:12:36.57,0:12:39.45,Default,,0,0,0,,ve istediği üniversiteyi kazanamasa?
+Dialogue: 0,0:12:39.45,0:12:44.49,Default,,0,0,0,,Ya da paylaştığı bir fotoğraf yüzünden\Nsınıfta dışlansa?
+Dialogue: 0,0:12:44.49,0:12:48.62,Default,,0,0,0,,H-Herkes aklına istediği kadar\Nihtimal getirebilir.
+Dialogue: 0,0:12:48.62,0:12:54.92,Default,,0,0,0,,Bir şeyler ters giderse \Nsorumluluğu nasıl üstleneceğini soruyorum.
+Dialogue: 0,0:12:54.92,0:12:56.05,Default,,0,0,0,,Şey.
+Dialogue: 0,0:12:56.05,0:13:00.09,Default,,0,0,0,,Bazı insanlar yaşadıkları bir şeyden sonra\Nkendilerini toparlayamaz.
+Dialogue: 0,0:13:00.09,0:13:05.51,Default,,0,0,0,,Kızımı bunlardan korumam yanlış mı?
+Dialogue: 0,0:13:07.39,0:13:10.52,Default,,0,0,0,,Onu korumanın bir yolu olduğu doğru.
+Dialogue: 0,0:13:15.77,0:13:18.49,Default,,0,0,0,,Görünüşe göre söyleyecek başka sözün yok.
+Dialogue: 0,0:13:19.57,0:13:20.99,Default,,0,0,0,,Yine de.
+Dialogue: 0,0:13:20.99,0:13:21.82,Default,,0,0,0,,Hı?
+Dialogue: 0,0:13:22.27,0:13:23.95,Default,,0,0,0,,Bence yanlış.
+Dialogue: 0,0:13:25.58,0:13:28.33,Default,,0,0,0,,Çünkü Koharu-san bunu kendi istiyor.
+Dialogue: 0,0:13:29.16,0:13:34.38,Default,,0,0,0,,Bu şekilde büyümeyi kendi seçmek istiyor.
+Dialogue: 0,0:13:35.34,0:13:39.80,Default,,0,0,0,,Koharu-san biraz sakar ve \Nkolayca yanlış anlaşılabiliyor
+Dialogue: 0,0:13:40.17,0:13:43.43,Default,,0,0,0,,ama düşündüğünüzden çok daha güçlü.
+Dialogue: 0,0:13:43.97,0:13:46.43,Default,,0,0,0,,Kaslar hasar gördükçe büyür.
+Dialogue: 0,0:13:46.43,0:13:50.81,Default,,0,0,0,,Acı çekme fırsatları \Nellerinden alınırsa onlar da ağlar.
+Dialogue: 0,0:13:53.35,0:13:55.06,Default,,0,0,0,,Evet, evet.
+Dialogue: 0,0:13:58.48,0:14:03.49,Default,,0,0,0,,Ne olursa olsun, kızımın kafayı \Ntaktığı şeyleri anlayamıyorum
+Dialogue: 0,0:14:03.49,0:14:05.16,Default,,0,0,0,,ve fikrim de asla değişmeyecek.
+Dialogue: 0,0:14:05.16,0:14:08.16,Default,,0,0,0,,Fotoğrafları herkese göstermenin ne anlamı var?
+Dialogue: 0,0:14:08.16,0:14:09.41,Default,,0,0,0,,Kendin için mi saklıyorsun?
+Dialogue: 0,0:14:09.41,0:14:12.21,Default,,0,0,0,,Beğenilmek için mi yapıyorsun?
+Dialogue: 0,0:14:12.21,0:14:17.92,Default,,0,0,0,,Böyle yüzeysel şeylerden doğan anılar ve mutluluk da ancak o kadar yüzeysel olur.
+Dialogue: 0,0:14:20.05,0:14:23.51,Default,,0,0,0,,Anlıyorum.\NO halde senden son bir ricam var.
+Dialogue: 0,0:14:23.51,0:14:24.59,Default,,0,0,0,,Rica mi?
+Dialogue: 0,0:14:24.59,0:14:26.60,Default,,0,0,0,,Bana biraz daha zaman ayırır mısın?
+Dialogue: 0,0:14:27.14,0:14:28.31,Default,,0,0,0,,Şöyle ki...
+Dialogue: 0,0:14:28.72,0:14:29.77,Default,,0,0,0,,Size bunu göstermek isterim.
+Dialogue: 0,0:14:33.27,0:14:34.31,Default,,0,0,0,,Şunu.
+Dialogue: 0,0:14:34.31,0:14:35.60,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:14:35.60,0:14:37.69,Default,,0,0,0,,Şimdi ne yapmamı istiyorsun?
+Dialogue: 0,0:14:39.86,0:14:41.19,Default,,0,0,0,,Gerçekleşmek üzere.
+Dialogue: 0,0:14:56.71,0:14:57.96,Default,,0,0,0,,Bu nedir?
+Dialogue: 0,0:14:57.96,0:14:59.59,Default,,0,0,0,,Büyülü bir an.
+Dialogue: 0,0:14:59.59,0:15:03.09,Default,,0,0,0,,Gün batımından hemen önceki o büyülü an.
+Dialogue: 0,0:15:05.13,0:15:07.18,Default,,0,0,0,,Bunu anlamak bu kadar mı zor?
+Dialogue: 0,0:15:07.89,0:15:09.93,Default,,0,0,0,,Sana güzel gelen manzaralar,
+Dialogue: 0,0:15:09.93,0:15:11.22,Default,,0,0,0,,lezzetli bulduğun şeyler,
+Dialogue: 0,0:15:11.22,0:15:12.72,Default,,0,0,0,,eğlendiğin anlar,
+Dialogue: 0,0:15:12.72,0:15:14.56,Default,,0,0,0,,yanında olan insanlar...
+Dialogue: 0,0:15:14.56,0:15:18.11,Default,,0,0,0,,Asla unutmak istemediğin şeyler,
+Dialogue: 0,0:15:18.11,0:15:20.40,Default,,0,0,0,,başkalarının sana ait \Nolduğunu bilmesini istediğin şeyler...
+Dialogue: 0,0:15:20.40,0:15:22.11,Default,,0,0,0,,O kadar değersizler mi?
+Dialogue: 0,0:15:24.11,0:15:30.62,Default,,0,0,0,,Seni etkileyen şeyleri başkalarıyla paylaşmak ve bağ kurmak istemek bir zayıflık mıdır?
+Dialogue: 0,0:15:30.62,0:15:31.74,Default,,0,0,0,,Bu da mı pervasızlık?
+Dialogue: 0,0:15:32.58,0:15:35.00,Default,,0,0,0,,Bu doğru. Ben...
+Dialogue: 0,0:15:35.87,0:15:40.38,Default,,0,0,0,,Ben sadece Soğuk Sato-san'ı tanıdım...
+Dialogue: 0,0:15:41.13,0:15:44.59,Default,,0,0,0,,Çünkü Sato-san cesurdu.
+Dialogue: 0,0:15:46.34,0:15:48.97,Default,,0,0,0,,GÜZEL FOTOĞRAF! - ŞİRİN - DEĞERLİ! -\NNE KADAR SANATSAL! - BU FOTOĞRAFA BAYILIYORUM!
+Dialogue: 0,0:15:51.35,0:15:53.68,Default,,0,0,0,,GÜZEL FOTOĞRAF! - ŞİRİN - DEĞERLİ! -\NNE KADAR SANATSAL! - BU FOTOĞRAFA BAYILIYORUM!
+Dialogue: 0,0:15:54.10,0:16:01.19,Default,,0,0,0,,Sizden ricam, Koharu-san’ın gücüne ve ilk adımı atma cesaretine güvenmenizdir.
+Dialogue: 0,0:16:01.65,0:16:07.07,Default,,0,0,0,,Anlıyorum. Yani Koharu bunu mu görüyor?
+Dialogue: 0,0:16:07.53,0:16:09.11,Default,,0,0,0,,Bu kadar yeter.
+Dialogue: 0,0:16:09.11,0:16:09.70,Default,,0,0,0,,Ha?
+Dialogue: 0,0:16:09.70,0:16:12.45,Default,,0,0,0,,Onları buraya sen getirdin, değil mi?
+Dialogue: 0,0:16:12.45,0:16:14.54,Default,,0,0,0,,Hatta Rinka-chan’ı da bu işe karıştırdın.
+Dialogue: 0,0:16:15.41,0:16:18.35,Default,,0,0,0,,Bu noktada, düzeltilmesi \Ngereken bir yanlış anlaşılma var.
+Dialogue: 0,0:16:18.35,0:16:19.04,Default,,0,0,0,,Ha?
+Dialogue: 0,0:16:19.04,0:16:22.75,Default,,0,0,0,,Sence Koharu’nun telefon \Nkullanmasını neden yasakladım?
+Dialogue: 0,0:16:22.75,0:16:27.30,Default,,0,0,0,,Neden? Çünkü Koharu-san’ın Minsta’yı kullanmaya başlamasına kızmıştın.
+Dialogue: 0,0:16:27.30,0:16:27.93,Default,,0,0,0,,Hayır.
+Dialogue: 0,0:16:27.93,0:16:28.93,Default,,0,0,0,,Hayır mı?!
+Dialogue: 0,0:16:28.93,0:16:31.68,Default,,0,0,0,,Günümüzde hangi ebeveyn böyle bir şey yapar ki?
+Dialogue: 0,0:16:31.68,0:16:33.68,Default,,0,0,0,,İşte sebebi bu.
+Dialogue: 0,0:16:33.68,0:16:35.56,Default,,0,0,0,,BİLDİRİM - PLANINIZ YÜKSELTİLDİ:\NSUPER SINIRSIZ EKSTRA PLAN
+Dialogue: 0,0:16:35.56,0:16:38.19,Default,,0,0,0,,Süper Sınırsız Ekstra Plan mı?
+Dialogue: 0,0:16:38.19,0:16:39.52,Default,,0,0,0,,İnternetimiz bitti.
+Dialogue: 0,0:16:39.52,0:16:42.73,Default,,0,0,0,,Açıkçası o kız başımı çok ağrıtıyor.
+Dialogue: 0,0:16:42.73,0:16:43.52,Default,,0,0,0,,Haa?
+Dialogue: 0,0:16:44.78,0:16:46.49,Default,,0,0,0,,Neee?!
+Dialogue: 0,0:16:48.49,0:16:56.75,Default,,0,0,0,,Yani Sato-san, Minsta’ya o kadar dalmış ki ailenin internet kotasını tüketmiş mi?
+Dialogue: 0,0:16:56.75,0:17:00.75,Default,,0,0,0,,Bu yüzden bu ay internete \Nharcayacak paramız kalmamıştı.
+Dialogue: 0,0:17:00.75,0:17:02.83,Default,,0,0,0,,Hmph. Bu tam Koharu'ya göre.
+Dialogue: 0,0:17:02.83,0:17:06.05,Default,,0,0,0,,Öyleyse neden telefonunu yasakladın?
+Dialogue: 0,0:17:06.05,0:17:09.55,Default,,0,0,0,,Panikleyip bütün ayarları \Ndeğiştirmesini istemiyorum.
+Dialogue: 0,0:17:09.55,0:17:11.55,Default,,0,0,0,,Neden onun dışarı çıkmasını yasakladın?
+Dialogue: 0,0:17:11.55,0:17:16.72,Default,,0,0,0,,İnternet paketini değiştirmek için\Nonu mağazaya götürmek zorunda kaldım.
+Dialogue: 0,0:17:18.35,0:17:24.69,Default,,0,0,0,,Kısacası babası da aşırı korumacı, bir o kadar tuhaf ve kendini ifade etmekte beceriksiz.
+Dialogue: 0,0:17:24.69,0:17:27.32,Default,,0,0,0,,Demek ki kız bu huyunu ondan mı almış?
+Dialogue: 0,0:17:27.32,0:17:29.82,Default,,0,0,0,,Neyse, geri kalanını kendisinden dinleyebilirsiniz.
+Dialogue: 0,0:17:29.82,0:17:30.95,Default,,0,0,0,,Ha?
+Dialogue: 0,0:17:37.20,0:17:39.41,Default,,0,0,0,,S-Sato-san?!
+Dialogue: 0,0:17:39.80,0:17:40.71,Default,,0,0,0,,Üzgünüm...
+Dialogue: 0,0:17:41.42,0:17:43.29,Default,,0,0,0,,Çok üzgünüm...
+Dialogue: 0,0:17:44.35,0:17:46.09,Default,,0,0,0,,Çok üzgünüm!
+Dialogue: 0,0:17:46.67,0:17:48.80,Default,,0,0,0,,B-Bekle, Sato-san!
+Dialogue: 0,0:17:48.80,0:17:53.64,Default,,0,0,0,,B-Benim hatam... \NSana ve herkese sıkıntı çıkardım...
+Dialogue: 0,0:17:53.64,0:17:55.80,Default,,0,0,0,,Bir de alacağımıza söz verdiğimiz buzlu içecek...
+Dialogue: 0,0:17:55.80,0:17:58.18,Default,,0,0,0,,Gerçekten, her şey... her şey...
+Dialogue: 0,0:17:58.18,0:17:59.73,Default,,0,0,0,,Çok üzgünüm!
+Dialogue: 0,0:17:59.73,0:18:02.56,Default,,0,0,0,,Hayır, sen bir şey yapmadın! \NBen sadece hemen bir sonuca vardım...
+Dialogue: 0,0:18:06.73,0:18:11.49,Default,,0,0,0,,Açıkça söyleyeyim, kendini bir şeye fazla kaptırıp sorumluluklarını ihmal edersen işin biter.
+Dialogue: 0,0:18:11.90,0:18:14.74,Default,,0,0,0,,Eminim ki bu acı deneyim\Nsana iyi bir ders olmuştur.
+Dialogue: 0,0:18:14.74,0:18:15.82,Default,,0,0,0,,Baba...
+Dialogue: 0,0:18:15.82,0:18:19.12,Default,,0,0,0,,Bundan sonra kendini kontrol et.
+Dialogue: 0,0:18:21.96,0:18:22.87,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:18:23.29,0:18:26.00,Default,,0,0,0,,Kusura bakma, Koharu’ya eve kadar eşlik eder misin?
+Dialogue: 0,0:18:26.00,0:18:27.59,Default,,0,0,0,,Ha? Ben mi?
+Dialogue: 0,0:18:27.59,0:18:30.13,Default,,0,0,0,,Halletmem gereken küçük bir iş var.
+Dialogue: 0,0:18:30.13,0:18:31.38,Default,,0,0,0,,Evet.
+Dialogue: 0,0:18:42.39,0:18:44.56,Default,,0,0,0,,Her şey yolunda mı?
+Dialogue: 0,0:18:44.56,0:18:46.90,Default,,0,0,0,,E-Evet. İyiyim.
+Dialogue: 0,0:18:47.40,0:18:48.48,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:18:54.57,0:18:58.16,Default,,0,0,0,,Tatlı olan her şeyden nefret ederim, ister yemek olsun ister insan.
+Dialogue: 0,0:18:58.16,0:19:01.45,Default,,0,0,0,,Sen herkesten daha tatlısın, Kazuharu-kun.
+Dialogue: 0,0:19:01.45,0:19:07.25,Default,,0,0,0,,Sota'nın arkadaşının benim sınıf arkadaşımın kızı olduğunu öğrenmek benim için tam bir sürpriz oldu.
+Dialogue: 0,0:19:07.25,0:19:08.21,Default,,0,0,0,,Ona söyledin mi?
+Dialogue: 0,0:19:08.21,0:19:09.29,Default,,0,0,0,,Peki ya sen?
+Dialogue: 0,0:19:09.29,0:19:12.46,Default,,0,0,0,,Paylaşmam gereken bir bilgi değil.
+Dialogue: 0,0:19:12.46,0:19:17.22,Default,,0,0,0,,Tabii, tabii! Babaların ve tricepslerin bu işe burunlarını sokmasına gerek yok!
+Dialogue: 0,0:19:17.22,0:19:19.14,Default,,0,0,0,,Sakiko-san’a çekmiş.
+Dialogue: 0,0:19:19.14,0:19:21.77,Default,,0,0,0,,Gerçekten mi? Gözlerini benden almış.
+Dialogue: 0,0:19:21.77,0:19:24.94,Default,,0,0,0,,Hayır! Ben onun azmini ve kararlılığını kastetmiştim.
+Dialogue: 0,0:19:24.94,0:19:29.44,Default,,0,0,0,,Sonuç olarak, birbirlerine ne kadar düşkün olduklarını dinlemekle yetindik.
+Dialogue: 0,0:19:29.44,0:19:32.23,Default,,0,0,0,,Bu çok saçma. Ben eve gidiyorum.
+Dialogue: 0,0:19:32.23,0:19:33.61,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:19:33.61,0:19:36.11,Default,,0,0,0,,Bunu içinde saklamana gerek yok.
+Dialogue: 0,0:19:37.07,0:19:40.12,Default,,0,0,0,,Bu gece ağlayacağım sadece!
+Dialogue: 0,0:19:41.37,0:19:42.95,Default,,0,0,0,,Sakin ol, sakin ol.
+Dialogue: 0,0:19:42.95,0:19:44.62,Default,,0,0,0,,Bu akşam üçümüz içiyoruz!
+Dialogue: 0,0:19:51.88,0:19:52.59,Default,,0,0,0,,Sa...
+Dialogue: 0,0:19:53.13,0:19:54.01,Default,,0,0,0,,O...
+Dialogue: 0,0:19:58.34,0:20:00.10,Default,,0,0,0,,-Oshio-kun!\N-Sato-san!
+Dialogue: 0,0:20:00.10,0:20:01.39,Default,,0,0,0,,Ha?!
+Dialogue: 0,0:20:01.39,0:20:03.81,Default,,0,0,0,,Ah, Sato-san, buyurun.
+Dialogue: 0,0:20:03.81,0:20:06.14,Default,,0,0,0,,O-O zaman ben başlıyorum.
+Dialogue: 0,0:20:06.14,0:20:07.10,Default,,0,0,0,,Şey...
+Dialogue: 0,0:20:07.10,0:20:08.85,Default,,0,0,0,,Geçen gün yaptığın o itiraf var ya...
+Dialogue: 0,0:20:12.23,0:20:13.98,Default,,0,0,0,,A-Affedersin! İyi misin?
+Dialogue: 0,0:20:13.98,0:20:15.11,Default,,0,0,0,,E-Evet.
+Dialogue: 0,0:20:15.78,0:20:18.24,Default,,0,0,0,,İ-İtiraf...
+Dialogue: 0,0:20:18.78,0:20:22.12,Default,,0,0,0,,A-Aslında, o telefon geldiğinde banyodaydım.
+Dialogue: 0,0:20:22.58,0:20:24.12,Default,,0,0,0,,Başım dönmeye başladı.
+Dialogue: 0,0:20:24.12,0:20:26.00,Default,,0,0,0,,Orada çok uzun süre mi kaldın?
+Dialogue: 0,0:20:26.00,0:20:28.37,Default,,0,0,0,,H-Hayır, öyle değil.
+Dialogue: 0,0:20:28.37,0:20:30.13,Default,,0,0,0,,Şey... Yani...
+Dialogue: 0,0:20:30.71,0:20:31.63,Default,,0,0,0,,Ben...
+Dialogue: 0,0:20:32.04,0:20:37.21,Default,,0,0,0,,Sevdiğim kişi bana aşkını itiraf etti... \Nve çok ama çok mutlu oldum!
+Dialogue: 0,0:20:43.22,0:20:47.27,Default,,0,0,0,,Ama doğrusu, hafızam biraz bulanık.
+Dialogue: 0,0:20:47.27,0:20:49.77,Default,,0,0,0,,O yüzden sana tekrar bir cevap vermek istiyorum.
+Dialogue: 0,0:20:49.77,0:20:51.73,Default,,0,0,0,,Doğru bir cevap.
+Dialogue: 0,0:20:55.32,0:20:59.40,Default,,0,0,0,,Ben de seni seviyorum, Oshio-kun.
+Dialogue: 0,0:20:59.91,0:21:03.16,Default,,0,0,0,,Çok uzun zamandır.
+Dialogue: 0,0:21:12.75,0:21:14.36,Default,,0,0,0,,Oshio-kun?
+Dialogue: 0,0:21:14.36,0:21:15.42,Default,,0,0,0,,Baştan alıyorum.
+Dialogue: 0,0:21:22.93,0:21:26.43,Default,,0,0,0,,Oshio-kun, az önce ne diyecektin?
+Dialogue: 0,0:21:27.31,0:21:31.94,Default,,0,0,0,,Sadece seninle her türlü yere gitmeye devam etmek istiyorum.
+Dialogue: 0,0:21:38.19,0:21:40.45,Default,,0,0,0,,Önce bir buzlu içecek alalım.
+Dialogue: 0,0:21:42.99,0:21:44.20,Default,,0,0,0,,Evet, öyle yapalım.
+Dialogue: 0,0:22:01.88,0:22:04.97,Default,,0,0,0,,DEVAM EDECEK
+Dialogue: 0,0:23:34.98,0:23:37.94,Default,,0,0,0,,Bir sonraki bölüm: Karşılıklı Aşk Başlıyor
+Dialogue: 0,0:22:06.90,0:22:17.54,Default,,0,0,0,,Ekibimize katılacak yeni çevirmenler arıyoruz!\NKatılmak için: discord.gg/luminaceviri
